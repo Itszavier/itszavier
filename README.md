@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Imani Brown and I'm a Full Stack Web Developer from Georgia, USA,</h2>
+<h1 align="left">Hi 👋! My name is Imani Brown and I'm a Full Stack Web Developer from Georgia, USA,</h1>
+
+
 
 ###
 
@@ -14,7 +16,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style='padding: 10px; display: flex; gap: '15px'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
